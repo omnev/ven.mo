@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+venmo.com	TRUE	/	FALSE	1999999999	v_id	fp01-4be904a6-8e86-4512-81d1-62db57d71626
+venmo.com	TRUE	/	FALSE	1999999999	srf	ee119775-f05c-48c9-a1e4-ea315a2bebbf
+venmo.com	TRUE	/	FALSE	1999999999	wwrc	true
+
